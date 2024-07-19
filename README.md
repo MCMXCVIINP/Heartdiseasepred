@@ -18,3 +18,13 @@ This is a web application that predicts the probability of heart disease based o
 1. Create virtual environment and install all the required python packages
 2. Run Flask App (on the terminal type "python app.py")
 3. Open your browser and go to http://127.0.0.1:5000/
+
+# Build your main directory like this
+heart_disease_prediction/
+├── app.py
+├── model.pkl
+├── templates/
+│   └── index.html
+└── static/
+    └── style.css
+
